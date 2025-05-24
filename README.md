@@ -40,9 +40,4 @@ A powerful tool to visualize your WhatsApp chats, revealing hidden patterns in m
 1. **Export your chat**:  
    WhatsApp → Group Info → Export Chat (without media)
 
-2. **Run the analyzer**:  
-   ```bash
-   git clone https://github.com/your-username/whatsapp-chat-analyzer.git
-   cd whatsapp-chat-analyzer
-   pip install -r requirements.txt
-   streamlit run app.py
+
