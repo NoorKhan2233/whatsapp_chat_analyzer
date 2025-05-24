@@ -1,2 +1,48 @@
-# whatsapp_chat_analyzer
-A Streamlit app that analyzes WhatsApp chat exports, displaying message statistics, user activity timelines, word clouds, and emoji frequencies using Python's data stack.
+# WhatsApp Chat Analyzer 📊💬
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Cleaning-yellowgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_Dashboard-FF4B4B)
+
+A powerful tool to visualize your WhatsApp chats, revealing hidden patterns in messaging behavior, user activity, and communication trends.
+
+## Features
+
+✨ **User Statistics**  
+- Message counts, words per user  
+- Media/links shared  
+
+📅 **Temporal Analysis**  
+- Daily/monthly activity trends  
+- Hourly heatmaps  
+
+📊 **Text Insights**  
+- Word clouds  
+- Most used emojis  
+
+👥 **Group Dynamics**  
+- Busiest users comparison  
+
+---
+
+## Tech Stack
+
+| Component       | Libraries/Tools       |
+|-----------------|-----------------------|
+| Data Processing | Pandas, NumPy        |
+| Visualization   | Matplotlib, Seaborn  |
+| NLP             | WordCloud, Emoji     |
+
+---
+
+## Quick Start
+
+1. **Export your chat**:  
+   WhatsApp → Group Info → Export Chat (without media)
+
+2. **Run the analyzer**:  
+   ```bash
+   git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+   cd whatsapp-chat-analyzer
+   pip install -r requirements.txt
+   streamlit run app.py
