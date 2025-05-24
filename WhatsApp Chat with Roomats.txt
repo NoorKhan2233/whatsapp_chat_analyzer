@@ -1,0 +1,503 @@
+12/15/24, 9:42 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/15/24, 9:42 PM - Shams L. H. F created group "Roomats"
+12/15/24, 9:42 PM - Shams L. H. F added you
+12/15/24, 9:43 PM - Shams L. H. F changed this group's icon
+12/15/24, 9:43 PM - Shams L. H. F: Hi
+12/15/24, 9:47 PM - Muzamil Hassan: null
+12/15/24, 10:23 PM - Momeen Web Developer: Naseem wuh pics sent kar dy
+12/15/24, 10:24 PM - Momeen Web Developer: Agar wuh app ky pass  toh
+12/15/24, 11:43 PM - Muzamil Hassan: https://www.facebook.com/share/r/1835fBCoka/
+12/16/24, 2:05 AM - Muzamil Hassan: https://www.facebook.com/share/v/1Fo6Hs5yqg/
+12/16/24, 3:27 PM - Muzamil Hassan changed this group's icon
+12/16/24, 9:39 PM - Muzamil Hassan: <Media omitted>
+12/16/24, 9:47 PM - +92 323 9296723: <Media omitted>
+12/16/24, 9:47 PM - +92 323 9296723: <Media omitted>
+12/16/24, 11:17 PM - Muzamil Hassan: https://www.facebook.com/reel/1557734681774072/?mibextid=6AJuK9
+12/17/24, 4:27 PM - Muzamil Hassan: یقین مانیں کنواروں کے لئے سردی کی موسم ایسی ہے جیسے کتے کے لئے بندوق 🤣🤣🤣
+12/18/24, 11:39 AM - Muzamil Hassan: Next.js 15.1, released on December 10, 2024
+
+***Features***
+
+React 19 Support
+**Turbopack Dev (Stable)*
+Static Indicator
+`unstable_after` API (Experimental)
+`instrumentation.js` API (Stable)
+**Enhanced Forms (`next/form`)**:
+Improved Self-hosting
+**Bundling External Packages (Stable)**:
+**Server Actions Security Enhancements**:
+Improved Error Debugging
+**Performance Improvements**: <This message was edited>
+12/18/24, 11:41 AM - Muzamil Hassan: https://chatgpt.com/c/67626c30-4fa8-800d-9a2c-3dbe1546bc45
+12/18/24, 2:55 PM - Muzamil Hassan: This message was deleted
+12/18/24, 6:35 PM - Muzamil Hassan: <Media omitted>
+12/18/24, 7:08 PM - Muzamil Hassan: <Media omitted>
+12/18/24, 7:08 PM - Muzamil Hassan: <Media omitted>
+12/18/24, 7:08 PM - Muzamil Hassan: <Media omitted>
+12/18/24, 7:08 PM - Muzamil Hassan: <Media omitted>
+12/18/24, 7:08 PM - Muzamil Hassan: <Media omitted>
+12/18/24, 7:28 PM - Shams L. H. F: MashaAllah muzamil is going to great work 👍
+12/18/24, 9:38 PM - Momeen Web Developer: Nice job
+12/18/24, 11:09 PM - Muzamil Hassan: https://v0.dev/chat/U5Rt64pqyb3
+12/18/24, 11:09 PM - Muzamil Hassan: made for nextjs react and tailwind css  AI
+12/19/24, 12:24 AM - Muzamil Hassan: <Media omitted>
+12/19/24, 11:15 AM - Muzamil Hassan: https://www.linkedin.com/posts/arti-yadav-4936051a6_pdf-ugcPost-7275352819228921856-7HqI?utm_source=share&utm_medium=member_android
+12/19/24, 11:16 AM - Muzamil Hassan: <Media omitted>
+12/20/24, 4:48 PM - Muzamil Hassan: https://www.linkedin.com/posts/progressivethinker_javascript-frontend-technology-activity-7274626911429967872-3_2G?utm_source=share&utm_medium=member_android
+12/20/24, 7:37 PM - Muzamil Hassan: https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c
+12/20/24, 7:38 PM - Muzamil Hassan: Next top ten Repos ...
+12/20/24, 8:03 PM - Muzamil Hassan: React 19 introduces significant improvements but remains reliant on frameworks like Next.js for fully leveraging its new features, especially Server Components and suspense.
+12/20/24, 9:45 PM - Muzamil Hassan: <Media omitted>
+12/26/24, 8:03 PM - Muzamil Hassan: <Media omitted>
+12/26/24, 8:42 PM - Shams L. H. F: Good replyed
+12/26/24, 8:44 PM - +92 323 9296723: Not only Khan also u 2😂
+12/27/24, 4:30 PM - Muzamil Hassan: HTTP is the backbone of web communication, facilitating the transfer of text, images, videos, and more across the internet.
+12/27/24, 4:32 PM - Muzamil Hassan: Components of HTTP:
+Methods: Specify the desired action (e.g., GET, POST, PUT, DELETE).
+Headers: Provide metadata about the request (e.g., authentication, content type).
+Body: Contains data sent with the request, usually with POST or PUT.
+12/27/24, 4:32 PM - Momeen Web Developer: But what difference between http and https
+12/27/24, 4:33 PM - Muzamil Hassan: main diff is security 
+HTTPS more secure as compare to http
+12/27/24, 4:35 PM - Muzamil Hassan: Feature	HTTP	HTTPS
+Security	No encryption	Encrypted with SSL/TLS
+Port	80	443
+Data Integrity	Not ensured	Ensured
+Authentication	No server authentication	Authenticated with certificates
+Browser Indication	May show "Not Secure"	Displays a padlock icon
+Use Case	Non-sensitive websites	Sensitive or secure websites
+12/27/24, 4:35 PM - Muzamil Hassan: <Media omitted>
+12/27/24, 4:35 PM - Muzamil Hassan: is that clear
+12/27/24, 4:36 PM - Muzamil Hassan: and now a days mostly website can be use the https protocols
+12/27/24, 4:37 PM - Muzamil Hassan: HTTPS is the recommended and modern standard for all websites to ensure secure and trustworthy communication. It protects users' privacy, prevents data breaches, and boosts SEO rankings
+12/28/24, 5:59 PM - Shams L. H. F: https://vt.tiktok.com/ZS6hpbjcQ/
+12/28/24, 8:00 PM - Muzamil Hassan: <Media omitted>
+12/30/24, 2:48 PM - Muzamil Hassan: <Media omitted>
+1/1/25, 12:53 PM - Muzamil Hassan: <Media omitted>
+1/1/25, 1:04 PM - Shams L. H. F: Wah @923195125656 sard musam ka ceeez hai😆
+1/1/25, 1:11 PM - Momeen Web Developer: 😆❤️😆❤️
+1/1/25, 1:30 PM - Muzamil Hassan: Jani ap tu bhout jalidii nilkal ga
+1/1/25, 1:30 PM - Muzamil Hassan: Mila bi ni
+1/1/25, 2:38 PM - Momeen Web Developer: Sorry Yarr app loge nined kar Raha thay
+1/1/25, 2:39 PM - Momeen Web Developer: Aur mai fix 9: baja nikalna tah
+1/1/25, 2:39 PM - Muzamil Hassan: Na kr yer
+1/1/25, 2:39 PM - Muzamil Hassan: Tu utha data
+1/1/25, 8:18 PM - Muzamil Hassan: 30 Movies Every Programmer Must Watch 😲
+
+1. The Social Network (2010)  
+2. Steve Jobs (2015)  
+3. Pirates of Silicon Valley (1999)  
+4. The Imitation Game (2014)  
+5. Hackers (1995)  
+6. Ex Machina (2014)  
+7. Her (2013)  
+8. Tron (1982)  
+9. Tron: Legacy (2010)  
+10. The Matrix (1999)  
+11. WarGames (1983)  
+12. Sneakers (1992)  
+13. Jobs (2013)  
+14. Antitrust (2001)  
+15. Blackhat (2015)  
+16. The Fifth Estate (2013)  
+17. The Circle (2017)  
+18. Silicon Valley (TV Series, 2014–2019)  
+19. Source Code (2011)  
+20. Chappie (2015)  
+21. Mr. Robot (TV Series, 2015–2019)  
+22. Ghost in the Shell (1995)  
+23. Minority Report (2002)  
+24. Transcendence (2014)  
+25. Ready Player One (2018)  
+26. Artificial Intelligence: AI (2001)  
+27. Revolt (2017)  
+28. The Thirteenth Floor (1999)  
+29. Eagle Eye (2008)  
+30. Terminator 2: Judgment Day (1991)  
+
+Legend_1
+1/1/25, 8:55 PM - Muzamil Hassan: <Media omitted>
+1/3/25, 6:06 PM - Muzamil Hassan: null
+1/4/25, 8:56 PM - Shams L. H. F: <Media omitted>
+1/4/25, 8:57 PM - Shams L. H. F: https://www.linkedin.com/in/shamsurahman520/
+1/4/25, 8:57 PM - Shams L. H. F: Please everyone follow my linkdIn account
+1/4/25, 9:04 PM - Shams L. H. F: You pleople also share the link to follow and support each others
+1/4/25, 9:05 PM - Momeen Web Developer: Pa tu mai jar ky
+1/4/25, 9:06 PM - Momeen Web Developer: Bas koshes ky 6 cha zadha ky
+1/4/25, 9:06 PM - Muzamil Hassan: <Media omitted>
+1/4/25, 9:07 PM - Momeen Web Developer: Ma aby karta hu
+1/4/25, 9:12 PM - Momeen Web Developer: Muzamil apky pass cv hai
+1/4/25, 9:13 PM - Muzamil Hassan: Je je
+1/4/25, 9:13 PM - Muzamil Hassan: Mn ap ko kal send kr. Do ga
+1/5/25, 9:03 AM - Shams L. H. F: https://www.facebook.com/share/r/14YY6nrKDw/
+1/5/25, 8:06 PM - Muzamil Hassan: https://www.linkedin.com/in/muzamilhassan14?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+1/5/25, 8:38 PM - noorkhanotlo1234: https://www.linkedin.com/in/noor-ul-haq1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+1/5/25, 8:38 PM - noorkhanotlo1234: Follow
+1/5/25, 9:54 PM - +92 323 9296723: https://www.linkedin.com/in/muhammadnaseem520/
+1/5/25, 9:54 PM - +92 323 9296723: Follow Me
+1/5/25, 10:34 PM - Muzamil Hassan: <Media omitted>
+1/5/25, 10:43 PM - Muzamil Hassan: @923239296723
+1/7/25, 9:53 PM - noorkhanotlo1234: You deleted this message
+1/10/25, 3:00 PM - Shams L. H. F: https://vt.tiktok.com/ZS6uuq7bG/
+1/10/25, 9:28 PM - Muzamil Hassan: <Media omitted>
+1/11/25, 11:06 PM - Shams L. H. F: https://youtu.be/rRAVqEFnT1s?si=iy53Iq_8tnc4yL2W
+TypeScript course 1
+1/11/25, 11:07 PM - Shams L. H. F: https://youtu.be/lVzb6pmel_E?si=Ep3nS-Ii9iMi5Sdc
+TypeScript course 2
+1/12/25, 9:08 AM - Momeen Web Developer: <Media omitted>
+1/12/25, 5:04 PM - Shams L. H. F: <Media omitted>
+1/14/25, 1:13 AM - Muzamil Hassan: <Media omitted>
+1/14/25, 11:40 PM - Muzamil Hassan: https://youtu.be/IfYnTTycHZI?si=-dbEfgn1TWAmyczT
+1/15/25, 10:50 PM - Shams L. H. F: <Media omitted>
+1/16/25, 6:12 PM - Muzamil Hassan: https://www.linkedin.com/posts/talentquip_interested-jobopening-remotejobs-activity-7285590412742856704-M9U9?utm_source=share&utm_medium=member_android
+1/17/25, 4:30 PM - Muzamil Hassan: This message was deleted
+1/17/25, 7:24 PM - Muzamil Hassan: https://dly.to/Z89r6Mu1IDf
+1/17/25, 8:08 PM - Momeen Web Developer: <Media omitted>
+1/17/25, 9:10 PM - Muzamil Hassan: <Media omitted>
+1/17/25, 9:10 PM - Muzamil Hassan: <Media omitted>
+1/18/25, 8:07 AM - Shams L. H. F: This message was deleted
+1/18/25, 8:08 AM - Shams L. H. F: please dear everyone check out  my latest project on Linkdin and comment it
+1/18/25, 8:11 AM - Shams L. H. F: https://www.linkedin.com/feed/update/urn:li:activity:7286217182911365121/
+1/18/25, 10:18 PM - Muzamil Hassan: <Media omitted>
+1/19/25, 1:00 AM - Muzamil Hassan: <Media omitted>
+1/19/25, 7:43 AM - Momeen Web Developer: Masha Allah  
+Sham Khana kala wuh complete frontend page jura way
+1/19/25, 4:05 PM - Shams L. H. F: https://www.facebook.com/share/p/15Yb7a8hJc/
+1/19/25, 4:56 PM - Amir Zada: https://www.facebook.com/share/r/19tX8FhC4T/
+1/19/25, 6:08 PM - Shams L. H. F: <Media omitted>
+1/19/25, 7:22 PM - Momeen Web Developer: بیچارہ غریب ہوگا
+1/19/25, 7:23 PM - noorkhanotlo1234: Is Sy to bore halat hamari he
+1/19/25, 7:46 PM - +92 323 9296723: Bechara programmer hoga😄
+1/19/25, 9:17 PM - Muzamil Hassan: Muthala ho ga
+1/19/25, 9:24 PM - Momeen Web Developer: آپ لوگوں کی کمرے سے تو بہتر ہے
+1/19/25, 9:44 PM - Muzamil Hassan: آپ کی کرامات کی وجہ سے
+1/19/25, 9:46 PM - Shams L. H. F: ٹھیک ہے میں مانتا ہوں شاید اپ غریب ہوں گے لیکن غریب ہونے کے ساتھ ساتھ اپ ایمان سے بھی حالے ہوں گے
+1/20/25, 12:43 PM - Muzamil Hassan: “Explain [Topic] to me like I’m a 5-year-old.”
+ “Give me a 5-minute crash course on [Topic].”
+“What are the top 5 resources to learn [Skill/Topic]?”
+“Create a step-by-step plan to master [Skill] in 30 days.”
+“Can you quiz me on [Topic]?”
+What are the common mistakes beginners make in [Topic]?”
+“Explain the pros and cons of [Topic] with examples.”
+ “Summarize the most important concepts in [Topic].”
+“Turn [Concept] into a story for better understanding.”
+“How can I practice [Skill/Topic] daily to improve faster?”
+1/20/25, 12:43 PM - Muzamil Hassan: chatgpt prompt
+1/20/25, 1:53 PM - Muzamil Hassan: <Media omitted>
+1/20/25, 8:02 PM - Muzamil Hassan: https://usehooks-ts.com/
+mern stack
+1/20/25, 9:29 PM - Muzamil Hassan: Bhout harmiii ho bataya
+1/20/25, 9:29 PM - Muzamil Hassan: 😭😂😂😂😂😭
+1/22/25, 10:42 PM - +92 323 9296723: https://ehunar.org/all_courses/3-months-certification-courses
+1/23/25, 12:05 PM - Muzamil Hassan: https://novoresume.com/
+1/24/25, 5:48 PM - Momeen Web Developer: Tam ya kah
+1/24/25, 6:12 PM - Momeen Web Developer: null
+1/25/25, 1:14 PM - Asif Ml Engineer: https://www.facebook.com/share/19HAMxQXGh/
+1/25/25, 1:16 PM - Asif Ml Engineer: https://www.facebook.com/share/p/1WspSWvT54/
+1/25/25, 11:53 PM - noorkhanotlo1234: https://www.tiktok.com/@noor_777766?_t=ZS-8tMruUQwnBK&_r=1
+1/25/25, 11:54 PM - noorkhanotlo1234: Subscribe to my TikTok I make videos using AI
+1/26/25, 3:08 PM - Shams L. H. F: <Media omitted>
+1/26/25, 3:12 PM - Shams L. H. F: <Media omitted>
+1/26/25, 3:23 PM - noorkhanotlo1234: <Media omitted>
+1/26/25, 4:10 PM - noorkhanotlo1234: <Media omitted>
+1/26/25, 9:39 PM - noorkhanotlo1234: You deleted this message
+1/26/25, 9:40 PM - noorkhanotlo1234: Gate ko koi open krdy yar
+1/26/25, 9:48 PM - noorkhanotlo1234: @923312498398 😂😂
+1/26/25, 9:49 PM - Momeen Web Developer: bahar mai garzaa halaat kharaab dee
+1/26/25, 9:49 PM - Momeen Web Developer: shemale tah khu nah way talaiii
+1/26/25, 9:49 PM - noorkhanotlo1234: Alaka sum shy me maloom Kary dy ka razy no tayyar dy maal
+1/26/25, 9:49 PM - noorkhanotlo1234: Female me maloom Kary dy
+1/26/25, 9:50 PM - noorkhanotlo1234: Roti la tlay wo kho chacha gate ban Kary wo
+1/26/25, 9:51 PM - Momeen Web Developer: zah der zahh
+1/27/25, 9:16 AM - Asif Ml Engineer: null
+1/27/25, 9:17 AM - Asif Ml Engineer: null
+1/28/25, 11:00 AM - Shams L. H. F: https://medium.com/%40francesco.saviano87/javascript-objects-10-real-world-exercises-c4fe8c206edd
+JavaScript Objects: 10 Real-World Exercises to practice
+1/28/25, 5:58 PM - Shams L. H. F: please everyone check my work and do good comments
+
+https://www.linkedin.com/posts/shamsurahman520_nextjs-tailwindcss-webdevelopment-activity-7289989186030297089-UWlH?utm_source=share&utm_medium=member_desktop
+1/28/25, 7:00 PM - Asif Ml Engineer: https://www.facebook.com/share/p/15c3smQczo/
+1/28/25, 8:54 PM - Momeen Web Developer: what is Deepseek Al new model mention your own ideas about this model
+1/29/25, 12:04 AM - noorkhanotlo1234: It an ai chatbot just like chatgpt launch by deepseek company
+1/29/25, 12:52 AM - Muzamil Hassan: Of chain
+1/29/25, 2:00 AM - noorkhanotlo1234: But I think what makes it different from ChatGPT is it's because it is learning through reinforcement learning. That shocks the USA tech companies, even it shocks the AI world because of this reinforcement learning base, 
+If you don't know about reinforcement learning it's a type of machine learning which are intended to learn from the environment like a human does, it means that the reinforcement learning-based model, becomes more powerful and intelligent over time, on the other hand, chat GPT based on supervised learning basically it means you have to till the model if this then does this like situation in supervised learning it's cannot improve its self.
+1/29/25, 2:02 AM - noorkhanotlo1234: Later on I will back on this and make a proper research, that why it's disrupt the stock market of tech companies
+1/29/25, 7:11 AM - Momeen Web Developer: 👍
+1/29/25, 2:50 PM - Muzamil Hassan: <Media omitted>
+2/1/25, 3:18 PM - Momeen Web Developer: <Media omitted>
+2/1/25, 3:20 PM - Momeen Web Developer: Jama kharapah doo
+2/1/25, 4:49 PM - +92 323 9296723: Miz kho dy py wdrawli😂
+2/2/25, 10:11 PM - +92 323 9296723: <Media omitted>
+2/3/25, 10:20 AM - Shams L. H. F: https://www.facebook.com/share/v/1E6YrP1aTA/
+2/4/25, 8:06 PM - +92 323 9296723: <Media omitted>
+2/4/25, 8:21 PM - Shams L. H. F: Wah peeri wah...
+2/4/25, 8:21 PM - Muzamil Hassan: Harmiii ho
+2/4/25, 8:26 PM - +92 323 9296723: Toh phir agyain😂
+2/4/25, 9:06 PM - Shams L. H. F: <Media omitted>
+2/4/25, 9:06 PM - Shams L. H. F: 10 pm teek har ek soni. Then i am going to delete it because of space issue in my mobile.
+2/4/25, 9:47 PM - Muzamil Hassan: Lula
+2/5/25, 1:47 PM - Momeen Web Developer: <Media omitted>
+2/5/25, 1:47 PM - Momeen Web Developer: <Media omitted>
+2/5/25, 1:51 PM - Muzamil Hassan: <Media omitted>
+2/5/25, 1:52 PM - Momeen Web Developer: <Media omitted>
+2/5/25, 1:53 PM - Muzamil Hassan: <Media omitted>
+2/5/25, 1:53 PM - Momeen Web Developer: Ok thanks 👍
+2/5/25, 1:54 PM - Muzamil Hassan: Welcome 🤗
+2/5/25, 2:25 PM - Momeen Web Developer: This message was deleted
+2/5/25, 2:25 PM - Momeen Web Developer: This message was deleted
+2/5/25, 2:33 PM - Momeen Web Developer: <Media omitted>
+2/5/25, 2:33 PM - Muzamil Hassan: Good 😊
+2/5/25, 2:34 PM - Muzamil Hassan: <Media omitted>
+2/5/25, 2:42 PM - Momeen Web Developer: Acha g
+2/6/25, 11:47 AM - Momeen Web Developer: JavaScript ky sub sy khubsurat book 📖
+2/6/25, 11:48 AM - Momeen Web Developer: Ya apny saath hard copy mai print kar looo
+2/11/25, 10:22 PM - Amir Zada: <Media omitted>
+2/11/25, 10:42 PM - noorkhanotlo1234: <Media omitted>
+2/11/25, 10:42 PM - noorkhanotlo1234: Review my cv
+2/12/25, 11:59 AM - Muzamil Hassan: @923443318545
+2/12/25, 11:59 AM - Muzamil Hassan: https://harshxraj.github.io/
+2/12/25, 12:00 PM - Muzamil Hassan: https://portfolio-ayan.netlify.app/
+2/12/25, 12:00 PM - Muzamil Hassan: https://www.aryankhandelwal.tech/
+2/12/25, 12:00 PM - Muzamil Hassan: https://yashkapure.netlify.app/
+2/12/25, 12:00 PM - Muzamil Hassan: https://portfolio-emaduddin.netlify.app/
+2/12/25, 12:02 PM - Muzamil Hassan: https://reactjsexample.com/24-best-free-open-source-react-portfolio-page-templates/
+2/12/25, 12:03 PM - Muzamil Hassan: @923443318545 khafii ha ye ya aur send kro
+2/12/25, 12:04 PM - Muzamil Hassan: here lot of portfolio app and demo website 
+check it and also it offical website <This message was edited>
+2/12/25, 12:05 PM - Muzamil Hassan: another query @923443318545
+2/12/25, 12:47 PM - Momeen Web Developer: Mai samja nahi voice clip mai samjawoo ya kiya hai
+2/12/25, 12:47 PM - Momeen Web Developer: Aur saat mai CV kis Tara hum bayangay
+2/12/25, 12:48 PM - Muzamil Hassan: Okay dear but w8
+2/12/25, 12:48 PM - Momeen Web Developer: Agar banana chayiee Kohi acheey sy CV
+2/12/25, 12:54 PM - Momeen Web Developer: Mai task do banalongay
+2/12/25, 9:47 PM - Shams L. H. F: https://youtu.be/eJBq3Vh5grI?si=zOPlqWBO60oBaUgc
+
+Best JavaScript Interview Questions in Hindi 2025 | Crack Your JS Interview
+2/12/25, 9:48 PM - Shams L. H. F: <Media omitted>
+2/12/25, 9:49 PM - Muzamil Hassan: <Media omitted>
+2/13/25, 10:59 PM - Momeen Web Developer: wasai agar dekha jayai tuh react ky bahut sy features hai tuh filhal kalieeya banda konsai sekhai app logo ka khayal mai  @+92 319 5125656
+~💔 سہارا ہے مولا عباس ص💔
+2/14/25, 12:08 AM - Muzamil Hassan: Basic Janii
+2/14/25, 7:51 PM - noorkhanotlo1234: <Media omitted>
+2/16/25, 12:42 AM - Muzamil Hassan: *ایک پٹھان کے اندر جن چلا گیا*👻
+ 
+*3 دن بعد جن 👻 خود ایک عالم کے پاس چلا گیا*🤔
+
+*جن نے کہا: کسی طرح مجھے باہر نکالو ! ورنہ میں نسوار کھا کھا کر مر جاؤں گا*۔😆😅🤣🤣🤣🤣🤣
+2/16/25, 1:41 AM - noorkhanotlo1234: Phr to Meri under k Jin ka kia Hal hoga
+2/16/25, 3:28 PM - Momeen Web Developer: <Media omitted>
+2/16/25, 3:28 PM - Momeen Web Developer: <Media omitted>
+2/19/25, 12:45 PM - Momeen Web Developer: Salam. 
+group mai bilkul khamushe hai mera khayal mai sardee agayee hai perr
+2/19/25, 12:46 PM - Momeen Web Developer: Mai tu perr Aah raha huu
+2/20/25, 12:53 AM - noorkhanotlo1234: https://youtu.be/bRtSGQYY3m4?si=VkTNfvivYjXXhT8Q
+2/20/25, 6:38 AM - +92 323 9296723: This message was deleted
+2/20/25, 6:39 AM - +92 323 9296723: Alhamdulillah 😍,
+Allah is the Greatest 🤲
+2/20/25, 8:51 PM - Asif Ml Engineer added Hameesh Arkh
+2/20/25, 9:16 PM - Muzamil Hassan: <Media omitted>
+2/20/25, 9:16 PM - Muzamil Hassan: <Media omitted>
+2/21/25, 11:41 PM - Hameesh Arkh: *iNeuron Full Stack Data Science FREE Full Course*
+
+*Download Link*
+https://mega.nz/folder/v7R0BCjZ#k9ILPiuJ2S3UoyYIlsCTPA
+
+For more :https://whatsapp.com/channel/0029VaitYAL6BIEZ3kftO63T
+2/22/25, 5:50 PM - Shams L. H. F: https://www.facebook.com/share/v/15oRUKVgWp/
+2/23/25, 1:36 AM - noorkhanotlo1234: https://youtu.be/DskRAuw8vxk?si=czKhuGtTmfqignWV
+2/23/25, 1:38 AM - noorkhanotlo1234: Very informative video
+2/23/25, 7:50 AM - Hameesh Arkh: <Media omitted>
+2/23/25, 7:50 AM - Hameesh Arkh: <Media omitted>
+2/23/25, 7:51 AM - Hameesh Arkh: <Media omitted>
+2/23/25, 1:51 PM - Shams L. H. F: <Media omitted>
+2/23/25, 2:01 PM - Muzamil Hassan: Love you 🤟💗💗😍
+2/23/25, 2:01 PM - Muzamil Hassan: Miss you too 😘❤️
+2/23/25, 2:01 PM - Muzamil Hassan: Take care 
+Be safe 💕☺️
+2/23/25, 2:40 PM - Hameesh Arkh: khafa ye halaka pata lagi
+2/23/25, 2:41 PM - Hameesh Arkh: ma khafa kiga bia ba milawego mara
+2/23/25, 2:43 PM - Shams L. H. F: Bas InshaAllah agr zandaghee raha thu pher melinghee bar bar melinghee...
+2/23/25, 3:01 PM - noorkhanotlo1234: While True:
+       If life== True:
+               Return "phr         melengy"
+      Return "nh melengy"
+2/23/25, 3:25 PM - Shams L. H. F: Output: phr melengy
+2/23/25, 4:49 PM - Momeen Web Developer: Safar pa khair
+2/23/25, 4:50 PM - Momeen Web Developer: chery rawon yaaa
+2/23/25, 4:53 PM - Shams L. H. F: Lhr to Pesh......
+2/23/25, 6:16 PM - Shams L. H. F: Mani ap logo se pehly kahata ki Pakistan ka nizam top level se jali hain.....
+Pakistan us position pinahi hain aj kall ki Internationali kisi b muqabila jeet saki.....
+Chahi wo games ho ya Politcal...
+Baki ham duwa go hain ki Allah tala Pakistan ko jeetwayee... <This message was edited>
+2/23/25, 7:59 PM - Shams L. H. F: Alhamdullillha just arrived to Peshawar...
+2/23/25, 8:53 PM - Muzamil Hassan: <Media omitted>
+2/24/25, 10:18 AM - Muzamil Hassan: <Media omitted>
+2/24/25, 2:42 PM - Shams L. H. F: Hahahah dear 
+Abi b Peshawar main ho friend ki saat.
+InshaAllah kall subi Peshawar se nelonga....
+3/1/25, 6:34 PM - noorkhanotlo1234: <Media omitted>
+3/1/25, 7:22 PM - Momeen Web Developer: <Media omitted>
+3/1/25, 7:23 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 7:29 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:15 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:22 PM - Momeen Web Developer: <Media omitted>
+3/1/25, 9:24 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 9:24 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 9:25 PM - noorkhanotlo1234: <Media omitted>
+3/1/25, 9:26 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:26 PM - Muzamil Hassan: @923166684564
+3/1/25, 9:27 PM - noorkhanotlo1234: Nechy Andy pary kahany ha to ajao
+3/1/25, 9:28 PM - Hameesh Arkh: ok bro
+3/1/25, 9:28 PM - noorkhanotlo1234: Nechy Andy pary kahany ha to ajao
+3/1/25, 9:28 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:29 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 9:29 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:30 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 9:30 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:31 PM - noorkhanotlo1234: <Media omitted>
+3/1/25, 9:31 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:31 PM - Shams L. H. F: Hahn's
+3/1/25, 9:31 PM - noorkhanotlo1234: <Media omitted>
+3/1/25, 9:32 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 9:33 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:33 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:33 PM - noorkhanotlo1234: <Media omitted>
+3/1/25, 9:33 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:34 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:34 PM - Asif Ml Engineer: <Media omitted>
+3/1/25, 9:34 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:35 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:35 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:35 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:36 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:36 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:37 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:37 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:37 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:38 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:38 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:38 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:39 PM - Amir Zada: <Media omitted>
+3/1/25, 9:39 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:39 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:40 PM - Amir Zada: <Media omitted>
+3/1/25, 9:40 PM - noorkhanotlo1234: <Media omitted>
+3/1/25, 9:40 PM - Hameesh Arkh: <Media omitted>
+3/1/25, 9:40 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:42 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:42 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:43 PM - Muzamil Hassan: <Media omitted>
+3/1/25, 9:43 PM - Shams L. H. F: <Media omitted>
+3/1/25, 9:44 PM - Muzamil Hassan: <Media omitted>
+3/2/25, 10:01 PM - Muzamil Hassan: WEBINAR START HOGYA HY❗❗❗
+
+Jinhoun ne abi tak join nae kia wo kis chez ka wait kar rahy hain? Seats full hony ka? 😠
+
+Zoom pe members ki limit hoti hy bhae… Only a limited number of people can join. Phir na kehna k room full hogya hy aur join nae hora 😒
+
+Abi jagah hy, jaldi se ajao!
+
+
+Yeh raha Webinar Meeting Link:
+
+ChainUp Solutions is inviting you to a scheduled Zoom meeting.
+
+https://us06web.zoom.us/j/81270974698?pwd=4xe5yYbLSjgugoBhQ7bjW0NbS94bat.1
+
+Meeting ID: 812 7097 4698
+Passcode: 054892
+3/3/25, 5:03 AM - +92 323 9296723: This message was deleted
+3/3/25, 5:04 AM - +92 323 9296723: <Media omitted>
+3/3/25, 5:04 AM - +92 323 9296723: Uthiey
+3/3/25, 6:19 AM - Momeen Web Developer: For which
+3/3/25, 12:59 PM - Shams L. H. F: https://m.facebook.com/story.php?story_fbid=pfbid02pEqZEvbXnk2dNPWUdRRuPL7dzqtkBKA2S2Yyfahm1c1kPXhWcjfxNBYFcVZPqm1Gl&id=100014858689104&mibextid=Nif5oz
+3/4/25, 12:10 AM - Hameesh Arkh: its time to share best things with our roomates
+3/4/25, 12:10 AM - Hameesh Arkh: List of AI Chatbots Present In WhatsApp:
+
+ •   Microsoft Copilot:
+ https://wa.me/18772241042
+
+ •   Meta AI:
+ https://wa.me/13135550002
+
+ •   ChatGPT:
+ https://wa.me/18002428478
+
+ •   Shmooz AI:
+ https://wa.me/12014166644
+
+ •   WizAI:
+ https://wa.me/4915151853491
+
+ •   GuideGeek:
+ https://wa.me/12058922070
+
+ •   MobileGPT:
+ https://wa.me/27767346284
+
+ •   LuzIA:
+ https://wa.me/34613288116
+
+•   Truora Genie AI:
+ https://wa.me/16204458887
+
+•   August AI:
+ https://wa.me/918738030604
+
+ •   HeyPat AI:
+ https://wa.me/18442439728
+
+•   Dola AI:
+ https://wa.me/16502234435
+
+Share with your friends
+https://whatsapp.com/channel/0029VaitYAL6BIEZ3kftO63T
+
+
+Reaction
+Good=❤
+Not good=🖤
+3/4/25, 12:11 AM - Hameesh Arkh: YouTube Thumbnail Ultimate pack 🔥
+
+
+Download Link 🖇
+https://drive.google.com/drive/folders/1tmPdr7NQIeQnZPhX84lGB_v--szudW7F
+
+
+> Follow WhatsApp channel for upcoming LinkedIn premium giveaway:https://whatsapp.com/channel/0029VaitYAL6BIEZ3kftO63T
+3/4/25, 12:12 AM - Hameesh Arkh: https://drive.google.com/drive/folders/1FVVJcABRxDGh4EoTLCHUhkVDVFkNigfD
+3/4/25, 12:12 AM - Hameesh Arkh: fonts pack all premium fonts you need for your websites
+3/4/25, 12:12 AM - Hameesh Arkh: canva pro link :
+3/4/25, 12:12 AM - Hameesh Arkh: https://www.canva.com/brand/join?token=1gnUYDoFAkNQEiWUhptxrQ&brandingVariant=edu&referrer=team-invite
+3/4/25, 12:13 AM - Hameesh Arkh: use this to make or use premium templates in canva
+3/4/25, 12:13 AM - Hameesh Arkh: react buddies
+3/4/25, 12:13 AM - Hameesh Arkh: no reactions
+3/5/25, 4:44 PM - Muzamil Hassan: https://maps.app.goo.gl/CFSmd4pr4EabbA326
+3/6/25, 4:38 AM - Muzamil Hassan: +92 306 8423293
+3/6/25, 6:55 PM - Momeen Web Developer: <Media omitted>
+3/7/25, 2:09 PM - Asif Ml Engineer: null
+3/7/25, 5:59 PM - Asif Ml Engineer: null
+3/7/25, 6:40 PM - Muzamil Hassan: null
+3/7/25, 7:12 PM - Momeen Web Developer: Kiya huwa hai
+3/7/25, 11:22 PM - Muzamil Hassan: https://youtube.com/@sjelectrics?si=UyhfM7Y1fB9YViTP
+3/7/25, 11:22 PM - Muzamil Hassan: <Media omitted>
+3/8/25, 7:47 PM - noorkhanotlo1234: <Media omitted>
+3/8/25, 10:26 PM - Hameesh Arkh: fiverr pa ja k ye gig favrite ma dalo apni 
+
+http://www.fiverr.com/s/0bQgV8x
+3/9/25, 12:23 AM - Hameesh Arkh: review karo s design ko kitna choti space ma mana content manage kia kia kia masail hai s ma check kar k batawo
+3/9/25, 12:25 AM - Muzamil Hassan: Add experience
+3/11/25, 9:50 PM - Hameesh Arkh: Dedicated to muzamil
+3/14/25, 8:10 PM - Muzamil Hassan: Slam 
+To Everyone
+3/14/25, 8:10 PM - Muzamil Hassan: Sub tk howo
+3/14/25, 8:11 PM - Momeen Web Developer: Walikum salam
+3/14/25, 8:11 PM - Asif Ml Engineer: Walikum salam
+3/14/25, 8:11 PM - Momeen Web Developer: Kitna Banda rah gaya hu Nexus berry me
+3/14/25, 8:12 PM - Asif Ml Engineer: Han aap sunao
+3/14/25, 8:12 PM - Asif Ml Engineer: Sirf Amir
+3/14/25, 8:34 PM - Muzamil Hassan: Azan ko khush krna ka lyia rha gayia ha
+3/18/25, 1:44 AM - Muzamil Hassan: <Media omitted>
+3/18/25, 1:45 AM - Hameesh Arkh: Ye myth hai
